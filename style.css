@@ -11,12 +11,16 @@ nav {
 }
 
 button {
-  color: white;
+  color: rgb(122, 161, 64);
   background-color: black;
   border: none;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 24px;
   margin-right: 20px;
+}
+
+button:hover {
+  color: rgb(105, 255, 5);
 }
 
 div.pic {
